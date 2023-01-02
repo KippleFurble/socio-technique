@@ -1,0 +1,10 @@
+2010: RMDP Synergie Tout-en-un RTC_Liège Védia Télésambre Boukè Matélé Tvlux Canal_Zoom TV_Com Antenne_Centre Notélé Bx1 -//-
+2015: RMDP Synergie Tout-en-un RTC_Liège Védia Télésambre Boukè Matélé Tvlux Canal_Zoom TV_Com Antenne_Centre Step2e  Phase_de_test -//- Lenteur Stabilité
+2017: RMDP Synergie Tout-en-un RTC_Liège Védia Télésambre Matélé Tvlux Canal_Zoom TV_Com Antenne_Centre Step2e  Phase_de_test Développement_Cinergie -//- Lenteur
+2018: RMDP Synergie Tout-en-un RTC_Liège Védia Télésambre Matélé Tvlux Canal_Zoom TV_Com Antenne_Centre Step2e*  Phase_de_test -//- -Lenteur -Stabilité Faillite
+Fin 2018: RTC_Liège DB_Step2e MAM -//-
+Juillet 2019: Synergie Tout-en-un* RTC_Liège DB_Step2e MAM Développeur_web Export Module_planning Module_conduite Védia* Télésambre* Boukè* Matélé Tvlux Canal_Zoom TV_Com Antenne_Centre -//- Fiche_Conduite
+Juillet 2021: Synergie Tout-en-un* RTC_Liège DB_Step2e MAM Développeur_web Export Module_planning Module_conduite Module_diffusion Védia* Télésambre* Boukè* Matélé Tvlux Canal_Zoom TV_Com Antenne_Centre -//- Fiche_Conduite
+Aout 2021: Synergie Tout-en-un RTC_Liège DB_Step2e MAM Développeur_web Export Module_planning Module_conduite Module_diffusion Module_traffic Védia* Télésambre* Boukè* Matélé Tvlux Canal_Zoom TV_Com Antenne_Centre -//- Fiche_Conduite Boucles_Publicitaires
+Fin 2021 : Synergie Tout-en-un RTC_Liège DB_Step2e MAM Développeur_web Export Module_planning Module_conduite Module_diffusion Module_traffic Module_web Védia* Télésambre* Boukè* Matélé Tvlux Canal_Zoom TV_Com Antenne_Centre -//- Fiche_Conduite Boucles_Publicitaires
+2022 : Synergie Tout-en-un RTC_Liège DB_Step2e MAM Développeur_web Export Module_planning Module_conduite Module_diffusion Module_traffic Module_web Védia* Télésambre* Boukè* Matélé Tvlux Canal_Zoom TV_Com Antenne_Centre VueJS -//- Fiche_Conduite Boucles_Publicitaires
